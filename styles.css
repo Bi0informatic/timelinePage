@@ -4,9 +4,20 @@
     object-fit: contain;
 }
 
+#title-section {
+    text-align: center;
+    padding: auto;
+    background-color: aqua;
+}
+body {
+    background-color: aqua;
+}
+
+p {
+    font-size: 100px;
+}
+
 img{
     display: block;
 }
 
-figure {
-}
