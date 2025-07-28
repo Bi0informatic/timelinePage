@@ -1,8 +1,8 @@
-## Introduction
+# Introduction
 This is a story told through chronological order.
 
 
-# Reference Story:
+## Reference Story:
 My mom once told gus <br>
 Gus hug <br>
 He was so scared <br>
