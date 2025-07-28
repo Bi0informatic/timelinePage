@@ -1,5 +1,6 @@
 # Introduction
-This is a story told through chronological order.
+This is a story about Gus and the circumstances that led to an image of his. 
+A story told through a timeline. 
 
 
 ## Reference Story:
