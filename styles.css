@@ -11,12 +11,13 @@ body {
 
 img{
     display: block;
-    padding-top: 15px;
+    padding-top: 45px;
+    padding-bottom: 4px;
 }
 
 #under-title {
-    margin-top: -3px;
-    padding-bottom: 10px;;
+    margin-top: 5px;
+    padding-bottom: 30px;;
 }
 
 #title-section {
@@ -32,11 +33,30 @@ img{
 }
 
 #img-div {
-    background-color: #d0d0d0;
+    /*background-color: #d0d0d0;*/
     text-align: center;
     margin: auto;
 }
 
 #img-caption {
     padding: 10px;
+    padding-bottom: 40px;
+    font-size: 23px;
+}
+
+#timeline-section {
+    text-align: center;
+    background-color: #d0d0d0;
+    padding: 10px;
+}
+
+ul {
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: left;
+}
+
+li {
+    margin-bottom: 10px;
+    line-height: 1.5;
 }
