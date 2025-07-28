@@ -1,6 +1,6 @@
 # Introduction
-This is a story about Gus and the circumstances that led to an image of his. 
-A story told through a timeline. 
+This is a story about a cat named Gus, and the circumstances that led to an image of his. 
+A story told through a timeline.
 
 
 ## Reference Story:
